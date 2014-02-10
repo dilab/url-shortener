@@ -1,3 +1,1 @@
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+Leave it blank for now
